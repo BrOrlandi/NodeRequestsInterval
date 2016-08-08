@@ -1,5 +1,9 @@
 # Node Requests Interval
 
+Insall dependencies:
+
+    npm install
+
 Run:
 
     node index.js [url] [interval]
